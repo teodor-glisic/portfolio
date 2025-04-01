@@ -1,20 +1,25 @@
 export default function Main() {
     return (
         <>
-            <main id="main-container">
+            <main className="main-container">
+                <h1>Main Page</h1>
 
-                <article>
-                    <img id="portrait"src="/portfolio/portrait.jpg"></img>
-                </article>
+                <img src="../portfolio/portrait.jpg" id="portrait" alt="Portrait of Teodor Glisic"></img>
 
-                
-
-                <article id="about">
-                    <h2>A bit about me</h2>
-                    <p>
-                        I am a Junior Developer with a passion for problem-solving and technology. Skilled in Java, Python, C++, Swift, HTML, CSS, and JavaScript, I combine analytical thinking with hands-on experience. My background in finance and business process integration, along with SAP certification, gives me a unique edge in tech-driven solutions.
-                    </p>
-                </article>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, magni adipisci. Provident quia dignissimos delectus vero sapiente soluta. Nihil laboriosam hic dolor nostrum cupiditate sunt deserunt autem nam aperiam ducimus?</p>
 
             </main>
         </>

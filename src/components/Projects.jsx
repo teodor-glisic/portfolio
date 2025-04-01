@@ -1,7 +1,9 @@
 export default function Projects() {
     return (
         <>
-            <h1>Projects</h1>
+            <main className="main-container">
+                <h1>Projects</h1>
+            </main>
         </>
     )
 }
