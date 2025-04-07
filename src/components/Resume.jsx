@@ -3,6 +3,8 @@ import WorkItem from "./WorkItem";
 import Accordion from 'react-bootstrap/Accordion';
 import {nanoid} from "nanoid"
 import { experience } from "../data/experience";
+import { training } from "../data/training";
+import TrainingItem from "./TrainingItem";
 
 export default function Resume() {
     return (
@@ -21,15 +23,15 @@ export default function Resume() {
                     </Accordion>
                 </article>
 
-                {/* <article>
-                    <h2>Formation</h2>
+                <article>
+                <h2>Training</h2>
 
-                    <Accordion defaultActiveKey="1" className="accordion-container">
-                        {[8, 9].map((x) => {
-                            return <WorkItem eventKey={x} key={x} />
-                        })}
-                    </Accordion>
-                </article> */}
+                <Accordion defaultActiveKey="1" className="accordion-container">
+                    {training.map((item) => {
+                        return <TrainingItem item={item} key={nanoid()} />
+                    })}
+                </Accordion>
+                </article>
 
                 
             </main>

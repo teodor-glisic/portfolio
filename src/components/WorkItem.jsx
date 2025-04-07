@@ -7,7 +7,7 @@ export default function WorkItem(props) {
                 <Accordion.Header>{props.item.company_name}</Accordion.Header>
                 <Accordion.Body>
                     <table width="100%">
-                        <tr><td>{props.item.position}</td><td style={{textAlign: "right",}}>{props.item.duration}</td></tr>
+                        <tr><td><em>{props.item.position}</em></td><td style={{textAlign: "right",}}><em>{props.item.duration}</em></td></tr>
                     </table>
                     <ul>
                         {props.item.work_tasks.map((x) => {

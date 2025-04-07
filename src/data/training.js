@@ -1,4 +1,4 @@
-export default [
+export const training =  [
     {
       "id": 1,
       "institution": "University of Applied Sciences Northwestern Switzerland - Olten",

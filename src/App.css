@@ -65,3 +65,8 @@ main {
 article > h2 {
   text-align: center;
 }
+
+td, ul {
+  line-height: 30px;
+}
+
