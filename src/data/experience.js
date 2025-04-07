@@ -1,6 +1,6 @@
 export const experience = [
   {
-    "id": 1,
+    "id": 5,
     "company_name": "University of Bern - Institute of Information Systems",
     "duration": "November 2024 - Today",
     "position": "Assistant Information Centre Department",
@@ -12,7 +12,7 @@ export const experience = [
     ]
   },
   {
-    "id": 2,
+    "id": 4,
     "company_name": "BDO AG - Solothurn",
     "duration": "September 2023 - August 2024",
     "position": "Audit Assistant",
@@ -37,7 +37,7 @@ export const experience = [
     ]
   },
   {
-    "id": 4,
+    "id": 2,
     "company_name": "Diotrol AG - Dulliken",
     "duration": "August 2020 - July 2022",
     "position": "Clerk in training",
@@ -51,7 +51,7 @@ export const experience = [
     ]
   },
   {
-    "id": 5,
+    "id": 1,
     "company_name": "Post CH AG - Olten",
     "duration": "August 2019 - July 2020",
     "position": "Clerk in training",

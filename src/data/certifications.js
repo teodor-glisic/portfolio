@@ -1,6 +1,6 @@
 export const certifications = [
     {
-        "id": 1,
+        "id": 5,
         "institution": "Codecademy",
         "duration": "February 2025",
         "certifications": [
@@ -8,7 +8,7 @@ export const certifications = [
         ]
       },
       {
-        "id": 2,
+        "id": 4,
         "institution": "SAP",
         "duration": "September 2024",
         "certifications": [
@@ -21,7 +21,7 @@ export const certifications = [
         "certifications": []
       },
       {
-        "id": 4,
+        "id": 2,
         "institution": "Codecademy",
         "duration": "August 2023",
         "certifications": [
@@ -29,7 +29,7 @@ export const certifications = [
         ]
       },
       {
-        "id": 5,
+        "id": 1,
         "institution": "Codecademy",
         "duration": "May 2023",
         "certifications": [

@@ -1,6 +1,6 @@
 export const training =  [
     {
-      "id": 1,
+      "id": 3,
       "institution": "University of Applied Sciences Northwestern Switzerland - Olten",
       "duration": "September 2022 - Today",
       "degree": "Bachelor in Business Informatics"
@@ -13,7 +13,7 @@ export const training =  [
       "final_grade": 5.6
     },
     {
-      "id": 3,
+      "id": 1,
       "institution": "Commercial Vocational School - Olten",
       "duration": "August 2020 - July 2023",
       "degree": "Businessman EFZ D&A",
